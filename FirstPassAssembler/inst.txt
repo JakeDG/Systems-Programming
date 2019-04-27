@@ -1,0 +1,7 @@
+addr 144 2
+ldb 68 3
+sta 12 3
+mul 32 3
+float 192 1
+lda 0 3
+j 60 3
