@@ -1,2 +1,5 @@
 # Ignore .bin files
 *.bin
+
+# Ignore .pdf files
+*.pdf
