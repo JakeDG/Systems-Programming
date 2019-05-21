@@ -1,8 +1,8 @@
 /* 
 * Developed by:
-* Jacob Gidley, Recorder, jgidley@albany.edu
-* Daniel Leo, Team Leader, dleo2@albany.edu
-* Mary Slaven, Monitor, mslaven@albany.edu
+* Jacob Gidley, Recorder
+* Daniel Leo, Team Leader
+* Mary Slaven, Monitor
 *
 * Description:
 * This program will generate a machine opcode table, stored in a binary search tree, and a symbol table, stored in a hash table.

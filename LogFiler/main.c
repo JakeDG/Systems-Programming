@@ -1,4 +1,11 @@
-/* Developed by Jacob Gidley, Mary , and Daniel Leo*/
+/* 
+* Developed by:
+* Mary Slaven, Team Leader
+* Jacob Gidley, Recorder
+* Daniel Leo, Monitor
+*
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <dirent.h>

@@ -1,8 +1,8 @@
 /* 
 * Developed by:
-* Jacob Gidley, Team Leader, jgidley@albany.edu
-* Daniel Leo, Recorder, dleo2@albany.edu
-* Mary Slaven, Monitor, mslaven@albany.edu
+* Jacob Gidley, Team Leader
+* Daniel Leo, Recorder
+* Mary Slaven, Monitor
 
 * This file contains the archStat and archVerify functions.
 */

@@ -1,8 +1,8 @@
 /* 
 * Developed by:
-* Jacob Gidley, Team Leader, jgidley@albany.edu
-* Daniel Leo, Recorder, dleo2@albany.edu
-* Mary Slaven, Monitor, mslaven@albany.edu
+* Jacob Gidley, Team Leader
+* Daniel Leo, Recorder
+* Mary Slaven, Monitor
 *
 * Description:
 * This program will take in arguments from the command line and based on those arguments do the following:

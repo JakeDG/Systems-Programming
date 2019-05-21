@@ -28,4 +28,4 @@ int  hashFunction(char *s,  int T) {
    /* The hash value computation is complete. So, */
    return h;
 
-} /* End of hash function */
+}

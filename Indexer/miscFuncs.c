@@ -1,8 +1,8 @@
 /*
 * Developed by:
-* Mary Slaven, Team Leader, mslaven@albany.edu
-* Jacob Gidley, Recorder, jgidley@albany.edu
-* Daniel Leo, Monitor, dleo2@albany.edu
+* Mary Slaven, Team Leader
+* Jacob Gidley, Recorder
+* Daniel Leo, Monitor
 *
 * This file contains functions to check if a file is a directory
 * and to change tokens to all lower case

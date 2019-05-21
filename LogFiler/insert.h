@@ -1,3 +1,12 @@
+/*
+*Developed by:
+* Mary Slaven, Team Leader
+* Jacob Gidley, Recorder
+* Daniel Leo, Monitor
+*
+* Insert function
+*/
+
 void insert(loglist **head, logline *log)
 {
 	loglist_Ptr listItr = (*head), // Used to iterate through the nodes of the list

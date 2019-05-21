@@ -1,8 +1,8 @@
 /* 
 * Developed by:
-* Jacob Gidley, Team Leader, jgidley@albany.edu
-* Daniel Leo, Monitor, dleo2@albany.edu
-* Mary Slaven, Recorder, mslaven@albany.edu
+* Jacob Gidley, Team Leader
+* Daniel Leo, Monitor
+* Mary Slaven, Recorder
 *
 * This file contains the functions related to the commands of the shell.
 */

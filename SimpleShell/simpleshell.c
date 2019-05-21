@@ -1,8 +1,8 @@
 /* 
 * Developed by:
-* Jacob Gidley, Team Leader, jgidley@albany.edu
-* Daniel Leo, Monitor, dleo2@albany.edu
-* Mary Slaven, Recorder, mslaven@albany.edu
+* Jacob Gidley, Team Leader
+* Daniel Leo, Monitor
+* Mary Slaven, Recorder
 *
 * Description:
 * This program creates a simplified command–line shell, similar to bash.

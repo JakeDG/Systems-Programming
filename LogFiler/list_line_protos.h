@@ -1,4 +1,11 @@
-/* This file contains the prototypes for the 
+/* 
+* Developed by:
+* Mary Slaven, Team Leader
+* Jacob Gidley, Recorder
+* Daniel Leo, Monitor
+*
+*
+* This file contains the prototypes for the 
 *  parseLine, deleteList, and printList functions
 */
  

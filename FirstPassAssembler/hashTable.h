@@ -1,8 +1,8 @@
 /* 
 * Developed by:
-* Jacob Gidley, Recorder, jgidley@albany.edu
-* Daniel Leo, Team Leader, dleo2@albany.edu
-* Mary Slaven, Monitor, mslaven@albany.edu
+* Jacob Gidley, Recorder
+* Daniel Leo, Team Leader
+* Mary Slaven, Monitor
 *
 * This file contains the struct definition of a node in the hash table.
 */
